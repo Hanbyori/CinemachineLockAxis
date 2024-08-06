@@ -4,6 +4,9 @@
 간단한 스크립트입니다.
 
 VirtualCamera에 Follow나 LootAt 걸려있어도 해당 축으로 오버라이드합니다.
+
+https://github.com/user-attachments/assets/3607649e-f663-4cf3-9385-6d9fea30c3db
+
 </br></br>
 ## 📌 How to use
 ![image](https://github.com/user-attachments/assets/0feff153-8256-4dea-aa52-205cbf7f6b8f)
